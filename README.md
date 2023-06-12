@@ -14,7 +14,7 @@ https://www.kaggle.com/code/ayomidearowele/video-games-sales-my-take/data?select
 
 Video games sales analysis and visualisation in python.
 
-## What was used:
+## Libraries used:
 * Jupyter Notebook,
 * Pandas,
 * Matplotlib.
